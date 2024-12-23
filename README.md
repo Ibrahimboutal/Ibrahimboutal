@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm BRAHIM BOUTAL</h1>
-<h3 align="center">A passionate developer from CHINA</h3>
+<h1 align="center"> 👋, I'm BRAHIM BOUTAL</h1>
+<h3 align="center">A  developer from CHINA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimboutal&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimboutal" /> </p>
 
