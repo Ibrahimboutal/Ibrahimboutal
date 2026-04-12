@@ -53,8 +53,9 @@ I am a Software Engineering graduate currently pursuing a **Master’s in Data S
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ibrahimboutal&show_icons=true&theme=visual_studio_code" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimboutal&layout=compact&theme=visual_studio_code" />
+  <img width="48%" src="https://github-access-stats.vercel.app/api?username=ibrahimboutal&show_icons=true&theme=tokyonight" />
+  
+  <img width="48%" src="https://github-access-stats.vercel.app/api/top-langs/?username=ibrahimboutal&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
