@@ -15,7 +15,7 @@ I am a Software Engineering graduate currently pursuing a **Master’s in Data S
 
 - 🎓 **Currently:** Mastering Data Science, AI Agents, and Multi-model systems.
 - 🛠️ **Building:** "Move-Out Intelligence Agent" (Legal automation for property management).
-- 🌐 **Languages:** Fluent in English & Arabic **.
+- 🌐 **Languages:** Fluent in English & Arabic.
 
 ---
 
