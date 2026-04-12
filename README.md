@@ -65,11 +65,10 @@ Node.js • Flask • Spring • REST APIs • PostgreSQL
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ibrahimboutal&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimboutal&layout=compact&theme=tokyonight" />
-</p>
+### 📊 Activity
+- Actively building AI systems and backend applications  
+- Focused on real-world, production-ready projects  
+- Consistent contributions across multiple domains  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimboutal&theme=radical" />
