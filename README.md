@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Brahim Boutal</h1>
 <p align="center">
-  <strong>AI & Backend Engineer | Data Science Graduate @ University of Parma</strong>
+  <strong>AI & Backend Engineer | Data Science Student @ University of Parma</strong>
 </p>
 
 <p align="center">
